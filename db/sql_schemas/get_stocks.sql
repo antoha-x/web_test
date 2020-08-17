@@ -1,0 +1,1 @@
+select name, price from stock_price;
